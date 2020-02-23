@@ -1,0 +1,5 @@
+012345678;danny;cohen;22;M;danny1993;123;1,2,4,8;Nice person
+223325222;or;dan;25;M;ordan10;1234;3,5,6,7;Singer and dancer
+203484758;shani;israel;25;F;shaninush;12345;4,5,6,7;Happy and cool girl
+349950234;nadav;levi;50;M;nd50;nadav;3,6,7,8;Engineer very smart
+345656974;oshrit;hasson;30;F;osh321;111;3,4,5,7;Layer and a painter
